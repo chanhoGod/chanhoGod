@@ -14,21 +14,24 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
+#### Data Engineering :
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A00?logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-17B3A3?logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=Amazon%20S3&logoColor=white)
 
 #### Etc :
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-3D5B96?logo=salesforce&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## :books: Studying
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A00?logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-17B3A3?logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1281B6?logo=apache-cassandra&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-231F20?logo=DBT&logoColor=white)
 
+</div>
 
 ![chanho's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhoGod&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgh3422)](https://solved.ac/cksgh3422/)
